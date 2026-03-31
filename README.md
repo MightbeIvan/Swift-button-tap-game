@@ -64,12 +64,6 @@ A simple **SwiftUI** game for iOS/iPadOS where the player tries to reach a hidde
 
 ---
 
-## Screenshots
-
-*(Optional: add screenshots of your game running on iPad or simulator here)*  
-
----
-
 ## Links
 
 - [GitHub](https://github.com/MightbeIvan)  
